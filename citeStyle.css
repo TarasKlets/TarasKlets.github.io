@@ -17,15 +17,23 @@ background-color:#01b1f5;
 }
 .k1{
 	border:2px solid;
+	color:#464646;
+	margin: 5px 5px 5px 5px;
 }
 .k2{
 	border:2px solid;
+	color:#464646;
+	margin: 5px 5px 5px 5px;
 }
 .k3{
 	border:2px solid;
+	color:#464646;
+	margin: 5px 5px 5px 5px;
 }
 .k4{
 	border:2px solid;
+	color:#464646;
+	margin: 5px 5px 5px 5px;
 }
 .main{
 	text-align:center;
@@ -34,11 +42,11 @@ background-color:#01b1f5;
 	border:5px solid;
 }
 .dev{
-	color:black;
-	margin: 0 0 0 15px;
+	color:#464646;
+	
 }
 .prava{
-	color:black;
+	color:#464646;
 	text-align:center;
 	
 }
@@ -50,4 +58,7 @@ background-color:#01b1f5;
 }
 .text{
 	font-size:110%;
+}
+.devLink{
+	margin:0 0 0 15px;
 }
