@@ -1,0 +1,47 @@
+.all{
+	background-color:#a4e1f9;
+}
+h3 {
+	color:red;
+	border:3px dashed;
+	padding:10px;
+	text-align:center;
+	margin:40px 570px 40px 570px;
+}
+#lol {
+border:1px solid;
+margin: 5px 0 5px 0;
+font-size:20px;
+color:white;
+background-color:#01b1f5;
+}
+.k1{
+	border:2px solid;
+}
+.k2{
+	border:2px solid;
+}
+.k3{
+	border:2px solid;
+}
+.k4{
+	border:2px solid;
+}
+.main{
+	text-align:center;
+	background-color:red;
+	margin:40px 550px 30px 550px;
+	border:5px solid;
+}
+.dev{
+	color:black;
+	margin: 0 0 0 15px;
+}
+.prava{
+	color:black;
+	text-align:center;
+	
+}
+#foot{
+	background-color:#01b1f5;
+	}
