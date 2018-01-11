@@ -10,7 +10,7 @@ h3 {
 }
 #lol {
 border:1px solid;
-margin: 5px 0 5px 0;
+margin: 5px 85% 5px 0;
 font-size:20px;
 color:white;
 background-color:#01b1f5;
@@ -18,23 +18,9 @@ background-color:#01b1f5;
 .k1{
 	border:2px solid;
 	color:#464646;
-	margin: 5px 5px 5px 5px;
+	margin: 10px 5px 10px 0;
 }
-.k2{
-	border:2px solid;
-	color:#464646;
-	margin: 5px 5px 5px 5px;
-}
-.k3{
-	border:2px solid;
-	color:#464646;
-	margin: 5px 5px 5px 5px;
-}
-.k4{
-	border:2px solid;
-	color:#464646;
-	margin: 5px 5px 5px 5px;
-}
+
 .main{
 	text-align:center;
 	background-color:red;
