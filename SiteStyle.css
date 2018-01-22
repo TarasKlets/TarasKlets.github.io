@@ -1,6 +1,6 @@
 .linklist{
 border: 1px solid;
-margin:  2% 85% 2% 2%;
+margin:2% 0 2% 0;
 background-color:#00f7d5;
 }
 .H{
@@ -10,18 +10,29 @@ background-color:#00f7d5;
 }
 .link{
 	border:1px solid;
-	margin:1% 5% 3% -15%;
+	margin:10% 40px 4% 0;
+	
 }
 .logo{
-	margin: 3% 0 3% 40%;
+	margin: 3% 0 3% 32%;
 }
-.html{
-	background-color:#cafffa;
+body{
+	
+	background: #000 url("fon.jpg");
+	background-size: 100% 100%;
 }
 .foot{
 background-color:#dcdcdc;
-
 }
 .right{
-text-align:center;
+
+}
+.links{
+	align:right;
+}
+.tawerka{
+	margin:0 0 10% 0;
+}
+.vishibala{
+	color:#d5fdf2;
 }
