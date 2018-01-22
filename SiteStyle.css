@@ -18,7 +18,7 @@ background-color:#00f7d5;
 }
 body{
 	
-	background: #000 url("fon.jpg");
+	background: #000 url("fon.jpg") no-repeat;
 	background-size: 100% 100%;
 }
 .foot{
