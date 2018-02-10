@@ -1,0 +1,24 @@
+﻿/*.png{
+transform: rotate(270deg);
+}*/
+.imgblock{
+	text-align:center;
+}
+.H{
+text-align:center;
+margin: 5% 0 5% 0;
+
+}
+.Logo{
+background-color:#502201;
+}
+body{
+background-color:#ded0c6;
+}
+footer{
+background-color:#502201;
+text-align:center;
+}
+.F{
+margin: 5% 0 5% 0;
+}
