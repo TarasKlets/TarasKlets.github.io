@@ -52,4 +52,18 @@ footer {
 	height:1px;
 }
 .body_menu{
+text-align:center;
+color:#905c36;
+font-size:170%;
+padding:5% 0 5% 0;
+}
+.line{
+	width:8%;
+	position: absolute;
+	margin-left:-4%;
+	
+	left:50%;
+	
+	background-color:#905c36;
+	height:1px;
 }
