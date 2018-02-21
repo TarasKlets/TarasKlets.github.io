@@ -67,3 +67,12 @@ padding:5% 0 5% 0;
 	background-color:#905c36;
 	height:1px;
 }
+.contacts{
+/*text-align:center;*/
+color:#905c36;
+font-size:170%;
+padding:3% 0 2% 0;
+}
+.contact{
+color:#272726;
+}
