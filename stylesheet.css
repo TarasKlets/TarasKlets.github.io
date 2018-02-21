@@ -10,7 +10,7 @@
 	color:#a08e81;
 }
 .Logo{
-	background-color:#422815;
+	background-color:#231e1a;
 	padding: 20px 15px 40px 15px;
 	margin:-10px -8px 0 -8px;
 }
@@ -23,7 +23,7 @@ body{
 	
 }*/
 footer {
-    background-color: #422815;
+    background-color: #231e1a;
     position: relative;
     padding: 40px 15px 40px 15px;
 	margin:1px -8px -10px -8px;
@@ -47,7 +47,7 @@ footer {
 	margin-left:-4%;
 	
 	left:50%;
-	top:20px;
+	top:20%;
 	background-color:#a88575;
 	height:1px;
 }
