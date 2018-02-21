@@ -42,11 +42,12 @@ footer {
 	margin: 0.3% 0.3% 0.3% 0.3%;
 }
 .footline{
-	width:50px;
+	width:8%;
 	position: absolute;
-	margin-left:-25px;
-	top:20px;
+	margin-left:-4%;
+	
 	left:50%;
+	top:20px;
 	background-color:#a88575;
 	height:1px;
 }
