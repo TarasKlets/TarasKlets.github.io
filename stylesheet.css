@@ -33,6 +33,7 @@ footer {
 	/*margin: 5% 0 5% 0;*/
 	color:#a08e81;
 	text-align:center;
+	font-size:110%;
 }
 .image{ 
 	border:1px solid;
@@ -40,11 +41,12 @@ footer {
 .menu{
 	margin: 0.3% 0.3% 0.3% 0.3%;
 }
-/*.foot{
-	
-	content:'';
+.footline{
 	width:50px;
-	margin-left:-25px;left:50%;
+	position: absolute;
+	margin-left:-25px;
+	top:20px;
+	left:50%;
 	background-color:#a88575;
-	height:1px
-}*/
+	height:1px;
+}
