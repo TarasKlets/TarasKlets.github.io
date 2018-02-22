@@ -16,6 +16,7 @@
 }
 body{
 	background-color:#ded0c6;
+position:relative;
 }
 /*footer{
 	background-color:#502201;
@@ -28,7 +29,8 @@ footer {
     padding: 40px 40% 40px 40%;
 	margin:1px -8px -10px -8px;
     text-align: center;
-   position:fixed;
+   position:absolute;
+bottom:0px;
 }
 .F{
 	/*margin: 5% 0 5% 0;*/
