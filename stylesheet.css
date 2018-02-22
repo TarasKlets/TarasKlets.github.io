@@ -28,7 +28,8 @@ footer {
     padding: 40px 15px 40px 15px;
 	margin:1px -8px -10px -8px;
     text-align: center;
-    fixed-position:bottom;
+   position:absolute;
+bottom:0px;
 }
 .F{
 	/*margin: 5% 0 5% 0;*/
