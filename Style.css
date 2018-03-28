@@ -20,10 +20,10 @@
 	color:#ce8afd;
 }
 footer{
-	 padding: 40px 40% 1px 40%;
+	 padding: 40px 40% 0px 40%;
 	 margin:-10px -8px 0 -8px;
 	background-color:#272727;
 }
-ul li{
-	display: inline;
+.contacts{
+padding:0 4% 0 4%;
 }
